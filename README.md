@@ -1,6 +1,6 @@
 
 ## 曹逸轩的个人日志
-[cyxtj.github.com](cyxtj.github.com)
+[cyxtj.github.com](http://cyxtj.github.com)
 
 我是曹逸轩，这是我的个人日志，记录了我的学习、生活的感悟和体会，欢迎交流。
 
