@@ -9,7 +9,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 曹逸轩个人日志
+title : 曹逸轩的个人日志
 tagline: 
 author :
   name : 曹逸轩
@@ -80,8 +80,12 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments:
-    provider: false
+  comments :
+     provider : custom
+     duoshuo : 
+       short_name : cyxtj
+  # comments:
+  #   provider: false
   # comments :
   #   provider : disqus
   #   disqus :
