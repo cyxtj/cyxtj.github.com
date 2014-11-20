@@ -2,6 +2,9 @@
 layout: post
 title: 实习总结
 tagline: 车站信号控制系统
+category: School Study
+tags: [实习, 思考]
+
 ---
 
 ## 实习内容
